@@ -1,0 +1,8 @@
+node_modules
+data/*
+!data/.keep
+json/*
+!json/.keep
+utils/constants.js
+
+.DS_Store
